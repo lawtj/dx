@@ -1,0 +1,17 @@
+RecordedDate,Q1,Q5,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6
+Recorded Date,What shift was this?,DX Attending:,What procedures did your team perform? How many events did your team respond to? - COVID19+ Intubations,What procedures did your team perform? How many events did your team respond to? - Central venous access,What procedures did your team perform? How many events did your team respond to? - Arterial access,What procedures did your team perform? How many events did your team respond to? - NON-Covid19+ Intubations,What procedures did your team perform? How many events did your team respond to? - Code Blue,What procedures did your team perform? How many events did your team respond to? - Trauma 900's,Did you encounter any issues during the day? - PPE not available,Did you encounter any issues during the day? - Airway equipment not available,Did you encounter any issues during the day? - Central line equipment not available,Did you encounter any issues during the day? - Inadequate staffing,Did you encounter any issues during the day? - ICU communication,Did you encounter any issues during the day? - Needed in multiple places at once
+"{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""QID1""}","{""ImportId"":""QID5""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID3_2""}","{""ImportId"":""QID3_3""}","{""ImportId"":""QID3_4""}","{""ImportId"":""QID3_5""}","{""ImportId"":""QID3_6""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID4_2""}","{""ImportId"":""QID4_3""}","{""ImportId"":""QID4_4""}","{""ImportId"":""QID4_5""}","{""ImportId"":""QID4_6""}"
+2020-04-03 21:08:25,Weekday - DX AM,"Law, Tyler",1,1,0,0,0,0,No,No,No,No,No,No
+2020-04-04 08:01:19,Weekday - DX PM,"Wight, Angie",0,0,0,0,0,1,No,No,No,No,No,No
+2020-04-04 20:07:04,Saturday - DX AM,"Law, Tyler",0,0,0,0,0,0,Yes,No,No,No,No,No
+2020-04-05 07:57:10,Saturday - DX PM,"Teng, Justin",1,-99,1,-99,-99,-99,No,No,No,No,No,No
+2020-04-05 22:06:51,Sunday - DX AM,"Law, Tyler",0,0,0,2,0,0,No,No,No,Yes,No,No
+2020-04-06 09:22:16,Sunday - DX PM,"Teng, Justin",0,0,0,0,0,0,No,No,No,No,No,No
+2020-04-06 18:02:43,Weekday - DX AM,"Asnake, Beti",2,2,2,0,0,0,No,No,No,No,No,Yes
+2020-04-07 07:51:34,Weekday - DX PM,"Lancman, Benn",1,1,1,0,0,0,No,No,No,No,No,No
+2020-04-08 08:48:54,Weekday - DX PM,"Lancman, Benn",0,0,0,0,0,1,No,No,No,No,No,No
+2020-04-08 15:09:07,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+2020-04-08 20:22:43,Weekday - DX AM,"Simon, Stefan",1,-99,-99,-99,-99,-99,No,No,No,No,No,No
+2020-04-09 08:10:00,Weekday - DX PM,"Wight, Angie",2,1,1,0,0,0,No,No,No,No,No,No
+2020-04-09 22:15:42,Weekday - DX AM,"Simon, Stefan",0,0,1,1,1,0,No,No,No,No,No,No
+2020-04-10 08:08:17,Weekday - DX PM,"Wight, Angie",0,0,0,0,0,0,No,No,No,No,No,No
